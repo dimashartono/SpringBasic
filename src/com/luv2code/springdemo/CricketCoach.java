@@ -1,5 +1,8 @@
 package com.luv2code.springdemo;
 
+import com.luv2code.ifapp.Coach;
+import com.luv2code.ifapp.FortuneService;
+
 public class CricketCoach implements Coach {
 	
 	private FortuneService fortuneService;

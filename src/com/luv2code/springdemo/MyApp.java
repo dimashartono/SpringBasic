@@ -1,5 +1,7 @@
 package com.luv2code.springdemo;
 
+import com.luv2code.ifapp.Coach;
+
 public class MyApp {
 
 	public static void main(String[] args) {
